@@ -1,0 +1,47 @@
+[
+  {
+    "word": "Accommodation",
+    "examCategory": "CRUX SPELLING",
+    "wordType": "Synonyms",
+    "year": "2026",
+    "quizOptions": [
+      "Accommodation",
+      "Acommodation",
+      "Accomodation",
+      "Accommodaton"
+    ],
+    "quizCorrect": "Accommodation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Entrepreneur",
+    "examCategory": "CRUX SPELLING",
+    "wordType": "Synonyms",
+    "year": "2026",
+    "quizOptions": [
+      "Entrepeneur",
+      "Entrepreneur",
+      "Entreprenuer",
+      "Entrepreunur"
+    ],
+    "quizCorrect": "Entrepreneur",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Necessary",
+    "examCategory": "CRUX SPELLING",
+    "wordType": "Synonyms",
+    "year": "2026",
+    "quizOptions": [
+      "Necesary",
+      "Neccessary",
+      "Necessary",
+      "Neccesary"
+    ],
+    "quizCorrect": "Necessary",
+    "definition": "",
+    "isBuiltin": true
+  }
+]

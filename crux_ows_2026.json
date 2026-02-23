@@ -1,0 +1,47 @@
+[
+  {
+    "word": "A person who loves books",
+    "examCategory": "CRUX OWS",
+    "wordType": "One Word Substitution",
+    "year": "2026",
+    "quizOptions": [
+      "Bibliophile",
+      "Polyglot",
+      "Philanthropist",
+      "Numismatist"
+    ],
+    "quizCorrect": "Bibliophile",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A person who cannot die",
+    "examCategory": "CRUX OWS",
+    "wordType": "One Word Substitution",
+    "year": "2026",
+    "quizOptions": [
+      "Immortal",
+      "Mortal",
+      "Eternal",
+      "Invincible"
+    ],
+    "quizCorrect": "Immortal",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A place where bees are kept",
+    "examCategory": "CRUX OWS",
+    "wordType": "One Word Substitution",
+    "year": "2026",
+    "quizOptions": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Sanctuary"
+    ],
+    "quizCorrect": "Apiary",
+    "definition": "",
+    "isBuiltin": true
+  }
+]

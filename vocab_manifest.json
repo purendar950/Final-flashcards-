@@ -1,0 +1,15 @@
+{
+  "version": "2026-v3",
+  "description": "VocabMaster built-in vocab bank. Add new JSON files here and bump version to push to all users.",
+  "files": [
+    { "file": "vocab/ssc_cgl_2025.json", "exam": "SSC CGL", "count": 234 },
+    { "file": "vocab/ssc_chsl_2025.json", "exam": "SSC CHSL", "count": 251 },
+    { "file": "vocab/ssc_cpo_2025.json", "exam": "SSC CPO", "count": 99 },
+    { "file": "vocab/ssc_phase_2025.json", "exam": "SSC PHASE", "count": 179 },
+    { "file": "vocab/ssc_steno_2025.json", "exam": "SSC STENO", "count": 171 },
+    { "file": "vocab/crux_ows_2026.json", "exam": "CRUX OWS", "count": 3 },
+    { "file": "vocab/crux_idioms_2026.json", "exam": "CRUX IDIOMS", "count": 3 },
+    { "file": "vocab/crux_spelling_2026.json", "exam": "CRUX SPELLING", "count": 3 },
+    { "file": "vocab/crux_phrasal_2026.json", "exam": "CRUX PHRASAL", "count": 3 }
+  ]
+}

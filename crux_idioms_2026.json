@@ -1,0 +1,38 @@
+[
+  {
+    "word": "Break the ice",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To start a conversation in an awkward situation"
+    ],
+    "quizCorrect": "To start a conversation in an awkward situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hit the nail on the head",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To describe exactly what is causing a problem"
+    ],
+    "quizCorrect": "To describe exactly what is causing a problem",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Under the weather",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Feeling ill or unwell"
+    ],
+    "quizCorrect": "Feeling ill or unwell",
+    "definition": "",
+    "isBuiltin": true
+  }
+]
