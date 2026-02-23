@@ -1,25 +1,3253 @@
 [
   {
-    "word": "Break the ice",
+    "word": "Buy the farm",
     "examCategory": "CRUX IDIOMS",
     "wordType": "Idioms & Phrases",
     "year": "2026",
     "quizOptions": [
-      "To start a conversation in an awkward situation"
+      "To die"
     ],
-    "quizCorrect": "To start a conversation in an awkward situation",
+    "quizCorrect": "To die",
     "definition": "",
     "isBuiltin": true
   },
   {
-    "word": "Hit the nail on the head",
+    "word": "Five-finger discount",
     "examCategory": "CRUX IDIOMS",
     "wordType": "Idioms & Phrases",
     "year": "2026",
     "quizOptions": [
-      "To describe exactly what is causing a problem"
+      "To steal from a shop"
     ],
-    "quizCorrect": "To describe exactly what is causing a problem",
+    "quizCorrect": "To steal from a shop",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Care a hang",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Showing no interest"
+    ],
+    "quizCorrect": "Showing no interest",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On the fence",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Unable to decide between two options or positions"
+    ],
+    "quizCorrect": "Unable to decide between two options or positions",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bite the bullet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Face a difficult situation with courage"
+    ],
+    "quizCorrect": "Face a difficult situation with courage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At a low ebb",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In a depressed or weak state"
+    ],
+    "quizCorrect": "In a depressed or weak state",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Jaundiced eye",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Resentment"
+    ],
+    "quizCorrect": "Resentment",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A bitter pill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Facing a distressing situation"
+    ],
+    "quizCorrect": "Facing a distressing situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cook one’s goose",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To interfere with, disrupt or ruin something for someone"
+    ],
+    "quizCorrect": "To interfere with, disrupt or ruin something for someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Chip on shoulder",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A tendency to be easily angered or resentful due to a perceived grievance"
+    ],
+    "quizCorrect": "A tendency to be easily angered or resentful due to a perceived grievance",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "When pigs fly",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something that will never happen"
+    ],
+    "quizCorrect": "Something that will never happen",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Babe in the woods",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A young defenceless person"
+    ],
+    "quizCorrect": "A young defenceless person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Queer pitch",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Ruined the plan"
+    ],
+    "quizCorrect": "Ruined the plan",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Blowing smoke",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To lie to perplex others"
+    ],
+    "quizCorrect": "To lie to perplex others",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Have a bee in your bonnet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be preoccupied or obsessed with something"
+    ],
+    "quizCorrect": "Be preoccupied or obsessed with something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Like two peas in a pod",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Very similar to each other"
+    ],
+    "quizCorrect": "Very similar to each other",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A bolt from the blue",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A sudden and unexpected event"
+    ],
+    "quizCorrect": "A sudden and unexpected event",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A sting in the tail",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An unexpected, typically unpleasant or problematic end to something"
+    ],
+    "quizCorrect": "An unexpected, typically unpleasant or problematic end to something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Back in saddle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Resume duty"
+    ],
+    "quizCorrect": "Resume duty",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A bull in a china shop",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An extremely awkward, clumsy person"
+    ],
+    "quizCorrect": "An extremely awkward, clumsy person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Casting pearls before swine",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Offering good things to undeserving people"
+    ],
+    "quizCorrect": "Offering good things to undeserving people",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Beat one’s brains out",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To put forth one’s maximum efforts"
+    ],
+    "quizCorrect": "To put forth one’s maximum efforts",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bells and whistles",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Attractive but unnecessary features added to products"
+    ],
+    "quizCorrect": "Attractive but unnecessary features added to products",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get the sack",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be dismissed"
+    ],
+    "quizCorrect": "Be dismissed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Red herrings",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Clever bluff"
+    ],
+    "quizCorrect": "Clever bluff",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Rift in the lute",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A small problem that spoils everything"
+    ],
+    "quizCorrect": "A small problem that spoils everything",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hornet's nest",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A troublesome or hazardous situation"
+    ],
+    "quizCorrect": "A troublesome or hazardous situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Throw in the towel",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To give up or surrender"
+    ],
+    "quizCorrect": "To give up or surrender",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull someone’s leg",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To tease or play a joke on someone"
+    ],
+    "quizCorrect": "To tease or play a joke on someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pie in the sky",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something not possible"
+    ],
+    "quizCorrect": "Something not possible",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be in the air",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "When an emotion or idea is on everyone’s mind"
+    ],
+    "quizCorrect": "When an emotion or idea is on everyone’s mind",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Burst someone’s bubble",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Destroy someone’s illusions or false beliefs"
+    ],
+    "quizCorrect": "Destroy someone’s illusions or false beliefs",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Green thumb",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To have a natural interest in gardening"
+    ],
+    "quizCorrect": "To have a natural interest in gardening",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Put my nose to the grindstone",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To work very hard"
+    ],
+    "quizCorrect": "To work very hard",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Roll up my sleeves",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Prepare to work hard"
+    ],
+    "quizCorrect": "Prepare to work hard",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sacred cow",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something that cannot be criticized"
+    ],
+    "quizCorrect": "Something that cannot be criticized",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bite someone’s head off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Speak angrily without any reason"
+    ],
+    "quizCorrect": "Speak angrily without any reason",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Best thing since sliced bread",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Most useful innovation in long time"
+    ],
+    "quizCorrect": "Most useful innovation in long time",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "As the crow flies",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "The shortest route"
+    ],
+    "quizCorrect": "The shortest route",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At a loss",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Unable to decide"
+    ],
+    "quizCorrect": "Unable to decide",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Catch 22",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A particular situation in which one cannot do anything"
+    ],
+    "quizCorrect": "A particular situation in which one cannot do anything",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Died in harness",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To die while in service"
+    ],
+    "quizCorrect": "To die while in service",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cut the mustard",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To perform well"
+    ],
+    "quizCorrect": "To perform well",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Take a rain check",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To politely decline with the implication that they may come at a later date"
+    ],
+    "quizCorrect": "To politely decline with the implication that they may come at a later date",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Yeoman’s service",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Excellent and reliable service"
+    ],
+    "quizCorrect": "Excellent and reliable service",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A vicious cycle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A sequence of events that compound each other"
+    ],
+    "quizCorrect": "A sequence of events that compound each other",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At loggerheads",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In disagreement"
+    ],
+    "quizCorrect": "In disagreement",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "As genuine as a three-dollar bill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely fake"
+    ],
+    "quizCorrect": "Completely fake",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "All wet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely mistaken"
+    ],
+    "quizCorrect": "Completely mistaken",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "By and large",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In general"
+    ],
+    "quizCorrect": "In general",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cat’s in the cradle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Complicated relationship"
+    ],
+    "quizCorrect": "Complicated relationship",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Burn my boats",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To commit oneself to a course"
+    ],
+    "quizCorrect": "To commit oneself to a course",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Egg on",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To encourage"
+    ],
+    "quizCorrect": "To encourage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Damp squib",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Complete failure"
+    ],
+    "quizCorrect": "Complete failure",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get down to brass tacks",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To start discussing the important facts"
+    ],
+    "quizCorrect": "To start discussing the important facts",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Helter-skelter",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In disorderly haste"
+    ],
+    "quizCorrect": "In disorderly haste",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hang up your boots",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To take retirement"
+    ],
+    "quizCorrect": "To take retirement",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get itchy feet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To want to travel or do something new"
+    ],
+    "quizCorrect": "To want to travel or do something new",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Keep your pants on",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be patient"
+    ],
+    "quizCorrect": "Be patient",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In the fast lane",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A life filled with great excitement"
+    ],
+    "quizCorrect": "A life filled with great excitement",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Have your head in the clouds",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be unrealistic"
+    ],
+    "quizCorrect": "To be unrealistic",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "From cradle to grave",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Throughout one’s life"
+    ],
+    "quizCorrect": "Throughout one’s life",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Drill into your heads",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To emphasize repeatedly"
+    ],
+    "quizCorrect": "To emphasize repeatedly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Down for the count",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Feeling tired and give up"
+    ],
+    "quizCorrect": "Feeling tired and give up",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Blue blood",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Aristocratic lineage"
+    ],
+    "quizCorrect": "Aristocratic lineage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At his disposal",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Available for use"
+    ],
+    "quizCorrect": "Available for use",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In the soup",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be in trouble"
+    ],
+    "quizCorrect": "To be in trouble",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Ivory towers",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Detachment and seclusion"
+    ],
+    "quizCorrect": "Detachment and seclusion",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Keep abreast of",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Keep oneself updated"
+    ],
+    "quizCorrect": "Keep oneself updated",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Let your hair down",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To take it easy and relax"
+    ],
+    "quizCorrect": "To take it easy and relax",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Make waves",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To cause trouble"
+    ],
+    "quizCorrect": "To cause trouble",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Nerves of steel",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An absence of fear or anxiety"
+    ],
+    "quizCorrect": "An absence of fear or anxiety",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Receiving a kickback",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Getting an illegal payment"
+    ],
+    "quizCorrect": "Getting an illegal payment",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Slack off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To ease pressure on something"
+    ],
+    "quizCorrect": "To ease pressure on something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A cog in the machine",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Small part of big organisation"
+    ],
+    "quizCorrect": "Small part of big organisation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On the breadline",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be very poor"
+    ],
+    "quizCorrect": "Be very poor",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A broth of a boy",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Energetic person"
+    ],
+    "quizCorrect": "Energetic person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A brown study",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A mood of deep thoughts"
+    ],
+    "quizCorrect": "A mood of deep thoughts",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A bull market",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Market where prices are rising"
+    ],
+    "quizCorrect": "Market where prices are rising",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Break a leg",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To wish good luck"
+    ],
+    "quizCorrect": "To wish good luck",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A pipe dream",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An unreal hope"
+    ],
+    "quizCorrect": "An unreal hope",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Poker face",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An expressionless face that hides one's true feelings or intentions"
+    ],
+    "quizCorrect": "An expressionless face that hides one's true feelings or intentions",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Aladdin’s cave",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A place having many interesting objects"
+    ],
+    "quizCorrect": "A place having many interesting objects",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "An olive branch",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Gesture of peace"
+    ],
+    "quizCorrect": "Gesture of peace",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "As dead as a doornail",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely obsolete/out of trend"
+    ],
+    "quizCorrect": "Completely obsolete/out of trend",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "As phony as a 3 dollars bill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something that is fake"
+    ],
+    "quizCorrect": "Something that is fake",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To shake in one’s shoes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be afraid"
+    ],
+    "quizCorrect": "To be afraid",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Over and above",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In addition to"
+    ],
+    "quizCorrect": "In addition to",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Ace in the hole",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A major advantage that one keeps hidden until an ideal time"
+    ],
+    "quizCorrect": "A major advantage that one keeps hidden until an ideal time",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Dead ringer",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An exact duplicate"
+    ],
+    "quizCorrect": "An exact duplicate",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Water under the bridge",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Anything from the past that isn't significant or important anymore"
+    ],
+    "quizCorrect": "Anything from the past that isn't significant or important anymore",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Out and Out",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Totally"
+    ],
+    "quizCorrect": "Totally",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bad iron",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Bad luck"
+    ],
+    "quizCorrect": "Bad luck",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be like chalk & cheese",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely different from each other"
+    ],
+    "quizCorrect": "Completely different from each other",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To hit the jackpot",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To achieve great success or luck"
+    ],
+    "quizCorrect": "To achieve great success or luck",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Beside oneself",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Out of one’s senses"
+    ],
+    "quizCorrect": "Out of one’s senses",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bob’s your uncle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Easily & quickly achievable"
+    ],
+    "quizCorrect": "Easily & quickly achievable",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To beat around the bush",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To avoid getting to the point"
+    ],
+    "quizCorrect": "To avoid getting to the point",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To take the bull by the horns",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To confront a challenge directly"
+    ],
+    "quizCorrect": "To confront a challenge directly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Jump on the bandwagon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To join others in doing something popular"
+    ],
+    "quizCorrect": "To join others in doing something popular",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Buy a lemon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To buy something worthless"
+    ],
+    "quizCorrect": "To buy something worthless",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Call the shots",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To tell others what to do"
+    ],
+    "quizCorrect": "To tell others what to do",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cast someone adrift",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To leave someone without support"
+    ],
+    "quizCorrect": "To leave someone without support",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To get the hang of",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To become familiar with something"
+    ],
+    "quizCorrect": "To become familiar with something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A fly on the wall",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To observe without being noticed"
+    ],
+    "quizCorrect": "To observe without being noticed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Charley horse",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A painful cramp"
+    ],
+    "quizCorrect": "A painful cramp",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Chew the fat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To gossip or chat casually"
+    ],
+    "quizCorrect": "To gossip or chat casually",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To go back to the drawing board",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To start again with a new plan"
+    ],
+    "quizCorrect": "To start again with a new plan",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To take a back seat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To assume a less prominent role"
+    ],
+    "quizCorrect": "To assume a less prominent role",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Crack someone up",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To make someone laugh"
+    ],
+    "quizCorrect": "To make someone laugh",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Crossed the Rubicon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Made an irreversible change"
+    ],
+    "quizCorrect": "Made an irreversible change",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sea change",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Major transformation"
+    ],
+    "quizCorrect": "Major transformation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Apropos of nothing",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Having no relevance to any previous discussion or situation"
+    ],
+    "quizCorrect": "Having no relevance to any previous discussion or situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Dance attendance",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Obey someone’s every wish"
+    ],
+    "quizCorrect": "Obey someone’s every wish",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Neck of the woods",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Neighbourhood"
+    ],
+    "quizCorrect": "Neighbourhood",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At daggers drawn with",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be bitterly hostile towards each other"
+    ],
+    "quizCorrect": "To be bitterly hostile towards each other",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Down the tubes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Failing completely"
+    ],
+    "quizCorrect": "Failing completely",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Drive someone up the wall",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Make someone extremely angry"
+    ],
+    "quizCorrect": "Make someone extremely angry",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Fly into a passion",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To become angry suddenly"
+    ],
+    "quizCorrect": "To become angry suddenly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go bananas",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To become excited or angry"
+    ],
+    "quizCorrect": "To become excited or angry",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In black and white",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In writing"
+    ],
+    "quizCorrect": "In writing",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Grasping at straws",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Desperate attempt to succeed"
+    ],
+    "quizCorrect": "Desperate attempt to succeed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bite the dust",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To die"
+    ],
+    "quizCorrect": "To die",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Grist to the mill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Provide useful advantage"
+    ],
+    "quizCorrect": "Provide useful advantage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Have a bash",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To make an attempt"
+    ],
+    "quizCorrect": "To make an attempt",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To lay someone by the heels",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To confine somebody in prison"
+    ],
+    "quizCorrect": "To confine somebody in prison",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Have egg on your face",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To look foolish"
+    ],
+    "quizCorrect": "To look foolish",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In the flesh",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In bodily form"
+    ],
+    "quizCorrect": "In bodily form",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hit the hay",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To go to bed"
+    ],
+    "quizCorrect": "To go to bed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "I don’t buy it",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "I am not convinced"
+    ],
+    "quizCorrect": "I am not convinced",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Spill the beans",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Tell others secret information"
+    ],
+    "quizCorrect": "Tell others secret information",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In the groove",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Starting to perform very well"
+    ],
+    "quizCorrect": "Starting to perform very well",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In Vogue",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In fashion"
+    ],
+    "quizCorrect": "In fashion",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Keep someone posted",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Keep sharing the latest information"
+    ],
+    "quizCorrect": "Keep sharing the latest information",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Latin and Greek",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Incomprehensible"
+    ],
+    "quizCorrect": "Incomprehensible",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Have people rolling in the aisles",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Make an audience laugh uncontrollably"
+    ],
+    "quizCorrect": "Make an audience laugh uncontrollably",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Lily Livered",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Not brave"
+    ],
+    "quizCorrect": "Not brave",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To breast the tape",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To win a race"
+    ],
+    "quizCorrect": "To win a race",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Loaves and fishes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Materialistic wealth"
+    ],
+    "quizCorrect": "Materialistic wealth",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Good grief",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An expression of surprise or frustration"
+    ],
+    "quizCorrect": "An expression of surprise or frustration",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Lose your marbles",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Go insane"
+    ],
+    "quizCorrect": "Go insane",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Made a pig’s ear",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Made a mess"
+    ],
+    "quizCorrect": "Made a mess",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Penny wise and pound foolish",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Careless with large amounts, but not small"
+    ],
+    "quizCorrect": "Careless with large amounts, but not small",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Memory like sieve",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Poor memory"
+    ],
+    "quizCorrect": "Poor memory",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Appeal to Caesar",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Appeal to the highest possible authority"
+    ],
+    "quizCorrect": "Appeal to the highest possible authority",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Mincing walk",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Small steps"
+    ],
+    "quizCorrect": "Small steps",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To make a mountain out of a molehill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To give great importance to trifles"
+    ],
+    "quizCorrect": "To give great importance to trifles",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Mumbo jumbo",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Nonsense speech"
+    ],
+    "quizCorrect": "Nonsense speech",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A piece of cake",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A very easy task"
+    ],
+    "quizCorrect": "A very easy task",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A bite at the cherry",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An attempt or opportunity to do something"
+    ],
+    "quizCorrect": "An attempt or opportunity to do something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "No spring chicken",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "No longer young"
+    ],
+    "quizCorrect": "No longer young",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On the ball",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Doing a job quickly/ alert"
+    ],
+    "quizCorrect": "Doing a job quickly/ alert",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Burn your bridges",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To eliminate the possibility of return or retreat"
+    ],
+    "quizCorrect": "To eliminate the possibility of return or retreat",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On the horizon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Event that is likely to happen soon"
+    ],
+    "quizCorrect": "Event that is likely to happen soon",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pell mell",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Great confusion"
+    ],
+    "quizCorrect": "Great confusion",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A beast of burden",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An animal that carries luggage"
+    ],
+    "quizCorrect": "An animal that carries luggage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cross out",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Eliminate"
+    ],
+    "quizCorrect": "Eliminate",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bite off more than one can chew",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To take on more than one can handle"
+    ],
+    "quizCorrect": "To take on more than one can handle",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pig in a poke",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Bought without proper examination"
+    ],
+    "quizCorrect": "Bought without proper examination",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Play it by ear",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To perform without rehearsals"
+    ],
+    "quizCorrect": "To perform without rehearsals",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Queer Fish",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Strange person"
+    ],
+    "quizCorrect": "Strange person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To take the veil",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To become a nun"
+    ],
+    "quizCorrect": "To become a nun",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Ruffle someone’s feathers",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To annoy"
+    ],
+    "quizCorrect": "To annoy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be my guest",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Please do it"
+    ],
+    "quizCorrect": "Please do it",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Butt in",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Interrupt"
+    ],
+    "quizCorrect": "Interrupt",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To have a nodding acquaintance",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Know somebody/something slightly"
+    ],
+    "quizCorrect": "Know somebody/something slightly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Rust bucket",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An old vehicle"
+    ],
+    "quizCorrect": "An old vehicle",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Scrape the barrel",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To use one’s last resource"
+    ],
+    "quizCorrect": "To use one’s last resource",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To pass the buck",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To shift responsibility to someone else"
+    ],
+    "quizCorrect": "To shift responsibility to someone else",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get a Second wind",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Have renewed energy"
+    ],
+    "quizCorrect": "Have renewed energy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To keep one’s nose to the grindstone",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To work hard and consistently"
+    ],
+    "quizCorrect": "To work hard and consistently",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Being better than before",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Raise the bar"
+    ],
+    "quizCorrect": "Raise the bar",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hold your horses",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be patient"
+    ],
+    "quizCorrect": "Be patient",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Slap on the wrist",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A mild punishment"
+    ],
+    "quizCorrect": "A mild punishment",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sly as a fox",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Smart and clever"
+    ],
+    "quizCorrect": "Smart and clever",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Burn the midnight oil",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Work late into the night"
+    ],
+    "quizCorrect": "Work late into the night",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sweat of his brow",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Hard work"
+    ],
+    "quizCorrect": "Hard work",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To a T",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Exactly"
+    ],
+    "quizCorrect": "Exactly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To dodge a bullet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To narrowly avoid a situation"
+    ],
+    "quizCorrect": "To narrowly avoid a situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To meet one’s water loo",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be badly defeated"
+    ],
+    "quizCorrect": "To be badly defeated",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To the nines",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To perfection"
+    ],
+    "quizCorrect": "To perfection",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To twiddle one’s thumbs",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be idle"
+    ],
+    "quizCorrect": "To be idle",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Toffee nosed",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A person who thinks himself of high class"
+    ],
+    "quizCorrect": "A person who thinks himself of high class",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Up the creek",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In trouble"
+    ],
+    "quizCorrect": "In trouble",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Want to curl up & die",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To feel sorry"
+    ],
+    "quizCorrect": "To feel sorry",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To come round",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To become conscious again"
+    ],
+    "quizCorrect": "To become conscious again",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Went pear shaped",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Went terribly wrong"
+    ],
+    "quizCorrect": "Went terribly wrong",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cook the books",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To falsify financial records"
+    ],
+    "quizCorrect": "To falsify financial records",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "When the crunch comes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "At the time of decision"
+    ],
+    "quizCorrect": "At the time of decision",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Blue – blooded",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Of noble birth"
+    ],
+    "quizCorrect": "Of noble birth",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "As bald as a cue ball",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely bald"
+    ],
+    "quizCorrect": "Completely bald",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Thick as thieves",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Having a close friendship"
+    ],
+    "quizCorrect": "Having a close friendship",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull something off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Make something happen"
+    ],
+    "quizCorrect": "Make something happen",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Getting butterflies in one's stomach",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be anxious and nervous"
+    ],
+    "quizCorrect": "To be anxious and nervous",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To make both ends meet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To have just enough money to live"
+    ],
+    "quizCorrect": "To have just enough money to live",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Provide a blueprint",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Give a detailed plan or scheme"
+    ],
+    "quizCorrect": "Give a detailed plan or scheme",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "All Greek to me",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something that is not understandable"
+    ],
+    "quizCorrect": "Something that is not understandable",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A jack of all trades",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Doing several different jobs instead of specialising in one"
+    ],
+    "quizCorrect": "Doing several different jobs instead of specialising in one",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Snowed under",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Busy"
+    ],
+    "quizCorrect": "Busy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A mare’s nest",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A confused situation"
+    ],
+    "quizCorrect": "A confused situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "With a fine-tooth comb",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Carefully"
+    ],
+    "quizCorrect": "Carefully",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "The die is cast",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "The decision has been taken"
+    ],
+    "quizCorrect": "The decision has been taken",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Weal and woe",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Prosperity and misfortune"
+    ],
+    "quizCorrect": "Prosperity and misfortune",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To turn over a new leaf",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To change one’s behaviour for better"
+    ],
+    "quizCorrect": "To change one’s behaviour for better",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To hit the sack",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To go to sleep"
+    ],
+    "quizCorrect": "To go to sleep",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Banana oil",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Nonsensical talk"
+    ],
+    "quizCorrect": "Nonsensical talk",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bear the palm",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To win"
+    ],
+    "quizCorrect": "To win",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Springs to mind",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Dawns on"
+    ],
+    "quizCorrect": "Dawns on",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A blast from the past",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something from the past"
+    ],
+    "quizCorrect": "Something from the past",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To pull the trigger",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To commit a course of action"
+    ],
+    "quizCorrect": "To commit a course of action",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go down like a lead balloon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be received badly by an audience"
+    ],
+    "quizCorrect": "To be received badly by an audience",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be at a crossroads",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To make a very important decision"
+    ],
+    "quizCorrect": "To make a very important decision",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To get under one’s skin",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To anger or irritate"
+    ],
+    "quizCorrect": "To anger or irritate",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Showed a clean pair of heels",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Run away"
+    ],
+    "quizCorrect": "Run away",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Where the shoe pinches",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Where the difficulty lies"
+    ],
+    "quizCorrect": "Where the difficulty lies",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "At the drop of a hat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Do something immediately without hesitation"
+    ],
+    "quizCorrect": "Do something immediately without hesitation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Taste of your own medicine",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Have the same bad treatment that you have given to others"
+    ],
+    "quizCorrect": "Have the same bad treatment that you have given to others",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A Penelope’s web",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An endless job"
+    ],
+    "quizCorrect": "An endless job",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Wear your heart on your sleeve",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Expressing emotions very openly"
+    ],
+    "quizCorrect": "Expressing emotions very openly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A chip off the old block",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Similar to one's parents in behaviour"
+    ],
+    "quizCorrect": "Similar to one's parents in behaviour",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A skeleton in the cupboard",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An embarrassing fact to be kept secret"
+    ],
+    "quizCorrect": "An embarrassing fact to be kept secret",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cut a poor figure",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To put a bad impression"
+    ],
+    "quizCorrect": "To put a bad impression",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Yellow bellies",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Cowards"
+    ],
+    "quizCorrect": "Cowards",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Turn up",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Appear"
+    ],
+    "quizCorrect": "Appear",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A drop in a bucket",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Insignificant compared"
+    ],
+    "quizCorrect": "Insignificant compared",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get on like a house on fire",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Get on extremely well with someone"
+    ],
+    "quizCorrect": "Get on extremely well with someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Out for the count",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In a deep, insensible sleep"
+    ],
+    "quizCorrect": "In a deep, insensible sleep",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Big bucks",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A lot of money"
+    ],
+    "quizCorrect": "A lot of money",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Your guess is as good as mine",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To have no idea of the answer"
+    ],
+    "quizCorrect": "To have no idea of the answer",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Greenhorn",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Inexperienced person"
+    ],
+    "quizCorrect": "Inexperienced person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Speaks volumes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Conveys a great deal"
+    ],
+    "quizCorrect": "Conveys a great deal",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pat on the back",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Praise or approval for doing something good"
+    ],
+    "quizCorrect": "Praise or approval for doing something good",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be pushing up daisies",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be dead and buried"
+    ],
+    "quizCorrect": "To be dead and buried",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To rise like a phoenix",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To emerge with a new life"
+    ],
+    "quizCorrect": "To emerge with a new life",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To take up the gauntlet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To accept a challenge"
+    ],
+    "quizCorrect": "To accept a challenge",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be off the hook",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To escape a difficult situation"
+    ],
+    "quizCorrect": "To escape a difficult situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Palm off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To dispose off with the intent to deceive"
+    ],
+    "quizCorrect": "To dispose off with the intent to deceive",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get someone’s goat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To irritate someone"
+    ],
+    "quizCorrect": "To irritate someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Loose cannon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Someone who is unpredictable and liable to cause trouble"
+    ],
+    "quizCorrect": "Someone who is unpredictable and liable to cause trouble",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In the blues",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Cheerless and depressed"
+    ],
+    "quizCorrect": "Cheerless and depressed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Not mince matters",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Tell your opinion clearly"
+    ],
+    "quizCorrect": "Tell your opinion clearly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On Shank’s mare",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "On foot"
+    ],
+    "quizCorrect": "On foot",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Out at the elbows",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Poor"
+    ],
+    "quizCorrect": "Poor",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Parthian shot",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An unpleasant remark at the end of a conversation"
+    ],
+    "quizCorrect": "An unpleasant remark at the end of a conversation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pound the pavement",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Hunt for a job on street"
+    ],
+    "quizCorrect": "Hunt for a job on street",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Shooting fish in a barrel",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Very easy task"
+    ],
+    "quizCorrect": "Very easy task",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "The bee’s knees",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Extraordinary"
+    ],
+    "quizCorrect": "Extraordinary",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Throw up the sponge",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To surrender"
+    ],
+    "quizCorrect": "To surrender",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To flog/beat a dead horse",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To attempt to do impossible/ a futile effort"
+    ],
+    "quizCorrect": "To attempt to do impossible/ a futile effort",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A red-letter day",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An important day"
+    ],
+    "quizCorrect": "An important day",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To end in smoke",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To come to nothing"
+    ],
+    "quizCorrect": "To come to nothing",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Through thick and thin",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In times of good and bad fortune"
+    ],
+    "quizCorrect": "In times of good and bad fortune",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Back to the drawing board",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Plan it all over again"
+    ],
+    "quizCorrect": "Plan it all over again",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Barking up the wrong tree",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Trying to do something in a way that will not work"
+    ],
+    "quizCorrect": "Trying to do something in a way that will not work",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Don’t count your chickens before they hatch",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Don’t make plans based on events that have not yet happened"
+    ],
+    "quizCorrect": "Don’t make plans based on events that have not yet happened",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Up in arms",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In rebellion"
+    ],
+    "quizCorrect": "In rebellion",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A wolf in sheep’s clothing",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Hypocrite"
+    ],
+    "quizCorrect": "Hypocrite",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cut to the chase",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Come to the point"
+    ],
+    "quizCorrect": "Come to the point",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Clear someone of",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Free from blame"
+    ],
+    "quizCorrect": "Free from blame",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To fish in troubled waters",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To take advantage of a difficult situation"
+    ],
+    "quizCorrect": "To take advantage of a difficult situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Chinks in the armour",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A weakness that can be taken advantage of"
+    ],
+    "quizCorrect": "A weakness that can be taken advantage of",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To go nuts",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be crazy"
+    ],
+    "quizCorrect": "To be crazy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Throw caution to the wind",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Behave in a reckless manner"
+    ],
+    "quizCorrect": "Behave in a reckless manner",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In your birthday suit",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Not wearing any clothes"
+    ],
+    "quizCorrect": "Not wearing any clothes",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Inflate a cow",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To boast or brag"
+    ],
+    "quizCorrect": "To boast or brag",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Showed the white flag",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To surrender or admit defeat"
+    ],
+    "quizCorrect": "To surrender or admit defeat",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Made a clean breast of",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Confessed his crime"
+    ],
+    "quizCorrect": "Confessed his crime",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cut and dried",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Already decided"
+    ],
+    "quizCorrect": "Already decided",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Look after",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Take care of"
+    ],
+    "quizCorrect": "Take care of",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Between Scylla and Charybdis",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Choice between two unpleasant alternatives"
+    ],
+    "quizCorrect": "Choice between two unpleasant alternatives",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To let someone off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To punish someone lightly"
+    ],
+    "quizCorrect": "To punish someone lightly",
     "definition": "",
     "isBuiltin": true
   },
@@ -29,9 +3257,1881 @@
     "wordType": "Idioms & Phrases",
     "year": "2026",
     "quizOptions": [
-      "Feeling ill or unwell"
+      "Slightly ill"
     ],
-    "quizCorrect": "Feeling ill or unwell",
+    "quizCorrect": "Slightly ill",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Chicken hearted",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Easily scared"
+    ],
+    "quizCorrect": "Easily scared",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "The last straw",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "The final problem in a series of problems that makes the situation intolerable"
+    ],
+    "quizCorrect": "The final problem in a series of problems that makes the situation intolerable",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To blaze the trail",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To start a movement"
+    ],
+    "quizCorrect": "To start a movement",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A damp squib",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A disappointment result"
+    ],
+    "quizCorrect": "A disappointment result",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A fine state of affairs",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An unpleasant situation"
+    ],
+    "quizCorrect": "An unpleasant situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cast a slur upon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Damaged"
+    ],
+    "quizCorrect": "Damaged",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Eye wash",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A deception"
+    ],
+    "quizCorrect": "A deception",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Fly off at a tangent",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To start discussing something irrelevant"
+    ],
+    "quizCorrect": "To start discussing something irrelevant",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go Dutch",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Divide the cost"
+    ],
+    "quizCorrect": "Divide the cost",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Zero in on",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To concentrate on"
+    ],
+    "quizCorrect": "To concentrate on",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Fizzle out",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To weaken gradually"
+    ],
+    "quizCorrect": "To weaken gradually",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Rose coloured glasses",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A positive outlook on life"
+    ],
+    "quizCorrect": "A positive outlook on life",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be taken aback",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be surprised"
+    ],
+    "quizCorrect": "To be surprised",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To carry the day",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To succeed"
+    ],
+    "quizCorrect": "To succeed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Keeps up with the joneses",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To try to match the lifestyle of one’s neighbours"
+    ],
+    "quizCorrect": "To try to match the lifestyle of one’s neighbours",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Like a cat on hot bricks",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be anxious"
+    ],
+    "quizCorrect": "To be anxious",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Like striking one’s colour",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To surrender or give up"
+    ],
+    "quizCorrect": "To surrender or give up",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Diamond in the rough",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An unsophisticated person with potential"
+    ],
+    "quizCorrect": "An unsophisticated person with potential",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be a dab hand at something",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Skilled in a particular area"
+    ],
+    "quizCorrect": "Skilled in a particular area",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "That ship has sailed",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Too late to do something"
+    ],
+    "quizCorrect": "Too late to do something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Vis-à-vis",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Face to face"
+    ],
+    "quizCorrect": "Face to face",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Turn turtle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Turn upside down"
+    ],
+    "quizCorrect": "Turn upside down",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull yourself together",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To calm oneself down"
+    ],
+    "quizCorrect": "To calm oneself down",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull a fast one",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To trick someone"
+    ],
+    "quizCorrect": "To trick someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Off the hook",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Out of trouble"
+    ],
+    "quizCorrect": "Out of trouble",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Made out of whole cloth",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Entirely false & fabricated"
+    ],
+    "quizCorrect": "Entirely false & fabricated",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Come rain or shine",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Whatever happens"
+    ],
+    "quizCorrect": "Whatever happens",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be a penny pincher",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be very frugal or stingy"
+    ],
+    "quizCorrect": "To be very frugal or stingy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A lean patch",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A period of poor performance"
+    ],
+    "quizCorrect": "A period of poor performance",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A moot point",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Disputed"
+    ],
+    "quizCorrect": "Disputed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Batten down the hatches",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Prepare for a difficult situation"
+    ],
+    "quizCorrect": "Prepare for a difficult situation",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Be off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To go away"
+    ],
+    "quizCorrect": "To go away",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cold comfort",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Slight satisfaction"
+    ],
+    "quizCorrect": "Slight satisfaction",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A stick in the mud",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A person who resists change"
+    ],
+    "quizCorrect": "A person who resists change",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "All agog",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "All the time; from the beginning"
+    ],
+    "quizCorrect": "All the time; from the beginning",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Beyond a shadow of a doubt",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "For certain"
+    ],
+    "quizCorrect": "For certain",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Digging around",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Investigating"
+    ],
+    "quizCorrect": "Investigating",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Made his mark",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To distinguish himself"
+    ],
+    "quizCorrect": "To distinguish himself",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Neck or nothing",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Under going great risk"
+    ],
+    "quizCorrect": "Under going great risk",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bear fruit",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Produce positive results"
+    ],
+    "quizCorrect": "Produce positive results",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A rainy day",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A time when money might unexpectedly be needed"
+    ],
+    "quizCorrect": "A time when money might unexpectedly be needed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Salad days",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Adolescence"
+    ],
+    "quizCorrect": "Adolescence",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A storm in a teacup",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Big fuss over a small matter"
+    ],
+    "quizCorrect": "Big fuss over a small matter",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Let sleeping dogs lie",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Do not bring up an old controversial issue"
+    ],
+    "quizCorrect": "Do not bring up an old controversial issue",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To keep in abeyance",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In a state of suspension"
+    ],
+    "quizCorrect": "In a state of suspension",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To nip in the bud",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To stop something at the start"
+    ],
+    "quizCorrect": "To stop something at the start",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To sow the dragon’s teeth",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To act foolishly"
+    ],
+    "quizCorrect": "To act foolishly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Lock, stock and barrel",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely"
+    ],
+    "quizCorrect": "Completely",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Keep a stiff upper lip",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Remained expressionless"
+    ],
+    "quizCorrect": "Remained expressionless",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Take your eye off the ball",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To stop paying attention for a moment"
+    ],
+    "quizCorrect": "To stop paying attention for a moment",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To call in question",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Challenge"
+    ],
+    "quizCorrect": "Challenge",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cat’s paw",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A person used as a tool by another"
+    ],
+    "quizCorrect": "A person used as a tool by another",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Feast one’s eyes on",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Gaze at something with pleasure"
+    ],
+    "quizCorrect": "Gaze at something with pleasure",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To hold water",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be valid and reasonable"
+    ],
+    "quizCorrect": "To be valid and reasonable",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull strings",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To use personal influence"
+    ],
+    "quizCorrect": "To use personal influence",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "By the skin of one’s teeth",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Barely managed to escape"
+    ],
+    "quizCorrect": "Barely managed to escape",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get the axe",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Lose the job"
+    ],
+    "quizCorrect": "Lose the job",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Elbow grease",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Hard physical effort"
+    ],
+    "quizCorrect": "Hard physical effort",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get one’s dander up",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Lose one’s temper"
+    ],
+    "quizCorrect": "Lose one’s temper",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Full of hot air",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Talking nonsense"
+    ],
+    "quizCorrect": "Talking nonsense",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cut a sorry figure",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Create a poor impression"
+    ],
+    "quizCorrect": "Create a poor impression",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sitting shotgun",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Riding in the front passenger seat of a car"
+    ],
+    "quizCorrect": "Riding in the front passenger seat of a car",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hit the nail on the head",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Say or do something exactly right"
+    ],
+    "quizCorrect": "Say or do something exactly right",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A state of reverie",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Brown study"
+    ],
+    "quizCorrect": "Brown study",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Tide someone over",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Give temporary help, usually financial"
+    ],
+    "quizCorrect": "Give temporary help, usually financial",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Gave up the ghost",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Stopped working"
+    ],
+    "quizCorrect": "Stopped working",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get the hang of",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Learn how to use"
+    ],
+    "quizCorrect": "Learn how to use",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go belly up",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To go bankrupt"
+    ],
+    "quizCorrect": "To go bankrupt",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "God’s ape",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A born fool"
+    ],
+    "quizCorrect": "A born fool",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To flog a dead horse",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To waste one’s energy on a lost cause"
+    ],
+    "quizCorrect": "To waste one’s energy on a lost cause",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Let off steam",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To work or play off excess energy"
+    ],
+    "quizCorrect": "To work or play off excess energy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Of the first water",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Of the best quality"
+    ],
+    "quizCorrect": "Of the best quality",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Put up with",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Tolerate"
+    ],
+    "quizCorrect": "Tolerate",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To put all your eggs in one basket",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To risk everything on a single venture"
+    ],
+    "quizCorrect": "To risk everything on a single venture",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To put the cart before the horse",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To reverse the proper order of things"
+    ],
+    "quizCorrect": "To reverse the proper order of things",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go for the jugular",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Attack all out"
+    ],
+    "quizCorrect": "Attack all out",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To turn the corner",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To pass the critical stage"
+    ],
+    "quizCorrect": "To pass the critical stage",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Strain every nerve",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Work very hard"
+    ],
+    "quizCorrect": "Work very hard",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Shake off",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To get rid of"
+    ],
+    "quizCorrect": "To get rid of",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Swollen headed",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Pride"
+    ],
+    "quizCorrect": "Pride",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pass the baton",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Shift responsibility to others"
+    ],
+    "quizCorrect": "Shift responsibility to others",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bring down the house",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To make the audience applaud enthusiastically"
+    ],
+    "quizCorrect": "To make the audience applaud enthusiastically",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Up the ante",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To increase the stakes"
+    ],
+    "quizCorrect": "To increase the stakes",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Under her belt",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Having achieved or experienced something"
+    ],
+    "quizCorrect": "Having achieved or experienced something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Go for a song",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "At a cheap rate"
+    ],
+    "quizCorrect": "At a cheap rate",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To get cold feet",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be afraid"
+    ],
+    "quizCorrect": "To be afraid",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Put on ice",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To postpone something"
+    ],
+    "quizCorrect": "To postpone something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "The seamy side",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "The unpleasant aspect"
+    ],
+    "quizCorrect": "The unpleasant aspect",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Run of the mill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Average"
+    ],
+    "quizCorrect": "Average",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Icing on the cake",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something extra that makes a good thing even better"
+    ],
+    "quizCorrect": "Something extra that makes a good thing even better",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bend over backwards",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Working hard to try to impress"
+    ],
+    "quizCorrect": "Working hard to try to impress",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pen and ink",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Smells foul"
+    ],
+    "quizCorrect": "Smells foul",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A plum job",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "An easy and pleasant job"
+    ],
+    "quizCorrect": "An easy and pleasant job",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A quick buck",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Money that is earned or gotten quickly"
+    ],
+    "quizCorrect": "Money that is earned or gotten quickly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Wag the dog",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To divert attention from something important"
+    ],
+    "quizCorrect": "To divert attention from something important",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hue and cry",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Protest"
+    ],
+    "quizCorrect": "Protest",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bite your tongue",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To avoid saying something"
+    ],
+    "quizCorrect": "To avoid saying something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To cut the crackle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To stop talking and start working"
+    ],
+    "quizCorrect": "To stop talking and start working",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To gird up the loins",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To prepare for the hard work"
+    ],
+    "quizCorrect": "To prepare for the hard work",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To make a pile",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To make a lot of money"
+    ],
+    "quizCorrect": "To make a lot of money",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Familiarity breeds contempt",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "The better you know someone the less you like him"
+    ],
+    "quizCorrect": "The better you know someone the less you like him",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "A thorn in the flesh",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Annoying and irritating"
+    ],
+    "quizCorrect": "Annoying and irritating",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Bell the cat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Do the impossible task"
+    ],
+    "quizCorrect": "Do the impossible task",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To steal a march",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To outshine"
+    ],
+    "quizCorrect": "To outshine",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Wet his whistle",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To get drunk"
+    ],
+    "quizCorrect": "To get drunk",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In cahoots",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In an alliance or partnership with"
+    ],
+    "quizCorrect": "In an alliance or partnership with",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Down in the dumps",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Feeling depressed or low in spirits"
+    ],
+    "quizCorrect": "Feeling depressed or low in spirits",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Carry the can",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To take the responsibility of some misdemeanour"
+    ],
+    "quizCorrect": "To take the responsibility of some misdemeanour",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Turned out",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To result in a particular way"
+    ],
+    "quizCorrect": "To result in a particular way",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Run into",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Meet unexpectedly"
+    ],
+    "quizCorrect": "Meet unexpectedly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Has two strings to his bow",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Has an additional skill or resource to rely on"
+    ],
+    "quizCorrect": "Has an additional skill or resource to rely on",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Take to task",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To scold"
+    ],
+    "quizCorrect": "To scold",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Hoist with one’s own petard",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be hurt by one’s own scheme"
+    ],
+    "quizCorrect": "Be hurt by one’s own scheme",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To oil the hinges of silence",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To gently break or ease the silence"
+    ],
+    "quizCorrect": "To gently break or ease the silence",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Token strike",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A warning strike"
+    ],
+    "quizCorrect": "A warning strike",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Clutch at straws",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Hoping without reasons"
+    ],
+    "quizCorrect": "Hoping without reasons",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To send to Coventry",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To socially ostracize someone (ignore)"
+    ],
+    "quizCorrect": "To socially ostracize someone (ignore)",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To sup with the devil",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To collaborate with a morally corrupt person"
+    ],
+    "quizCorrect": "To collaborate with a morally corrupt person",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To throw one’s cap over the windmill",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To act recklessly ignoring consequences"
+    ],
+    "quizCorrect": "To act recklessly ignoring consequences",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Jack up the rates",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Increase prices"
+    ],
+    "quizCorrect": "Increase prices",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Jump the shark",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To reach a peak and begin to decline"
+    ],
+    "quizCorrect": "To reach a peak and begin to decline",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pound of flesh",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A harsh demand for rightful payment"
+    ],
+    "quizCorrect": "A harsh demand for rightful payment",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Play gooseberry",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Be an unwanted third person (in a couple)"
+    ],
+    "quizCorrect": "Be an unwanted third person (in a couple)",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Rest on one’s laurels",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Stop putting effort after success"
+    ],
+    "quizCorrect": "Stop putting effort after success",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Sail close to the wind",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Operate on the edge of legality or risk"
+    ],
+    "quizCorrect": "Operate on the edge of legality or risk",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Throw one’s hat into the ring",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Announce one’s candidacy or challenge"
+    ],
+    "quizCorrect": "Announce one’s candidacy or challenge",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Beard the lion in his den",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To confront boldly"
+    ],
+    "quizCorrect": "To confront boldly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Cast the first stone",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Accuse someone first"
+    ],
+    "quizCorrect": "Accuse someone first",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Coals of fire upon his head",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To shame an enemy through kindness"
+    ],
+    "quizCorrect": "To shame an enemy through kindness",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Fiddle while Rome burns",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Waste time on trivial things during a crisis"
+    ],
+    "quizCorrect": "Waste time on trivial things during a crisis",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Gall and wormwood",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Deep frustration or bitterness"
+    ],
+    "quizCorrect": "Deep frustration or bitterness",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Get your walking papers",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Get fired"
+    ],
+    "quizCorrect": "Get fired",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Jump through hoops",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Face many difficulties"
+    ],
+    "quizCorrect": "Face many difficulties",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Not fit to hold a candle to",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Greatly inferior to"
+    ],
+    "quizCorrect": "Greatly inferior to",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To have the last laugh",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Succeed eventually"
+    ],
+    "quizCorrect": "Succeed eventually",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Whistle in the dark",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To appear brave despite fear"
+    ],
+    "quizCorrect": "To appear brave despite fear",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Mad as a hatter",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Completely insane or eccentric"
+    ],
+    "quizCorrect": "Completely insane or eccentric",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be in high dudgeon",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be offended with exaggerated dignity"
+    ],
+    "quizCorrect": "To be offended with exaggerated dignity",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Harp on the same string",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Repeat the same thing endlessly"
+    ],
+    "quizCorrect": "Repeat the same thing endlessly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To writing on the wall",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "A clear warning of inevitable doom"
+    ],
+    "quizCorrect": "A clear warning of inevitable doom",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pull the wool over someone’s eyes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Deceive someone"
+    ],
+    "quizCorrect": "Deceive someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "To be off base",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To be wrong or mistaken"
+    ],
+    "quizCorrect": "To be wrong or mistaken",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Break one’s duck",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Achieve a first success after previous failures"
+    ],
+    "quizCorrect": "Achieve a first success after previous failures",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Show the white feather",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "To act cowardly"
+    ],
+    "quizCorrect": "To act cowardly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Toe the line",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Obey rules exactly"
+    ],
+    "quizCorrect": "Obey rules exactly",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Will not pass muster",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Will not meet required standards"
+    ],
+    "quizCorrect": "Will not meet required standards",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Whatever floats your boat",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Something that makes you happy"
+    ],
+    "quizCorrect": "Something that makes you happy",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Mum's the word",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Keep quiet"
+    ],
+    "quizCorrect": "Keep quiet",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "On a shoestring",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Doing something with a very small amount of money"
+    ],
+    "quizCorrect": "Doing something with a very small amount of money",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Fallen off the radar",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Become unnoticed"
+    ],
+    "quizCorrect": "Become unnoticed",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Pain in the neck",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Very annoying"
+    ],
+    "quizCorrect": "Very annoying",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Tread on your toes",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Offend or annoy someone"
+    ],
+    "quizCorrect": "Offend or annoy someone",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "In dribs and drabs",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "In small amounts, numbers"
+    ],
+    "quizCorrect": "In small amounts, numbers",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "All hands on deck",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Everyone working together"
+    ],
+    "quizCorrect": "Everyone working together",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Finger in the pie",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Being involved or interfering in something"
+    ],
+    "quizCorrect": "Being involved or interfering in something",
+    "definition": "",
+    "isBuiltin": true
+  },
+  {
+    "word": "Off one's rocker",
+    "examCategory": "CRUX IDIOMS",
+    "wordType": "Idioms & Phrases",
+    "year": "2026",
+    "quizOptions": [
+      "Mentally unstable or irrational"
+    ],
+    "quizCorrect": "Mentally unstable or irrational",
     "definition": "",
     "isBuiltin": true
   }
